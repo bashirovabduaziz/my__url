@@ -40,6 +40,14 @@ body{
 .card:hover{
      background-color: rgb(73, 29, 168);
 }
+.items{
+    color: white;
+   margin-top: 100px;
+   text-decoration: none;
+}
+span{
+    margin-left: 10px;
+}
 
 
 @media (max-width:1150px){
@@ -109,13 +117,13 @@ body{
         margin: 0 auto;
     }
     .img{
-        margin-left: 50px;
-        width: 250px;
-        height: 250px;
+        margin-left: 75px;
+        width: 200px;
+        height: 200px;
     }
     .title{
         margin-right: 0px;
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .card{
